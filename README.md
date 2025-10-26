@@ -1,2 +1,0 @@
-# ML
-machine learning project
